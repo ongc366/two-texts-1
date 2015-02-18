@@ -1,0 +1,3 @@
+swap every moon with asteroid and every asteroid with moon
+invert every 5th sentence
+swap the order of every Pronoun I with the word after it
